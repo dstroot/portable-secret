@@ -25,7 +25,7 @@ Sounds too good to be true? Keep reading. This is for you.
 Portable Secret is not a product and it is barely a project.
 **It is just a neat trick, a *hack***.
 
-The [source code](https://github.com/mprimi/portable-secret) and [creator tool](https://mprimi.github.io/portable-secret/creator/) are provided as a demonstration.
+The [source code](https://github.com/dstroot/portable-secret) and [creator tool](https://dstroot.github.io/portable-secret/creator/) are provided as a demonstration.
 
 
 ---
@@ -39,12 +39,12 @@ A 'Portable Secret' is simply an HTML file that also contains:
 Any (reasonably modern) web browser can open the file, even without an internet connection!
 If you know the password, you can recover the secret within.
 
-[Here's an example](https://mprimi.github.io/portable-secret/examples/example-message.html) (the password is `banana`)
+[Here's an example](https://dstroot.github.io/portable-secret/examples/example-message.html) (the password is `banana`)
 
 Notice that the file is self-contained and has no external dependencies!
 It can be carried on a USB drive and decrypted without an internet connection, on any device that has a web browser.
 
-To understand how it works, go ahead and [create yourself a secret](https://mprimi.github.io/portable-secret/creator/). Download and inspect the generated Portable Secret.
+To understand how it works, go ahead and [create yourself a secret](https://dstroot.github.io/portable-secret/creator/). Download and inspect the generated Portable Secret.
 
 The embedded code is straightforward:
  - Take the password and generate a key
@@ -84,7 +84,7 @@ Have you ever gotten stranded in a foreign country without any of your devices o
 
 I keep a copy of my passport encrypted on the internet. It's just an HTML file, it's easy to host. If I find myself stranded again, I can use any computer/device to retrieve it.
 
-[Here's an example of ID document safely encrypted in plain sight](https://mprimi.github.io/portable-secret/examples/example-image.html).
+[Here's an example of ID document safely encrypted in plain sight](https://dstroot.github.io/portable-secret/examples/example-image.html).
 
 ---
 
@@ -94,7 +94,7 @@ I keep a copy of my passport encrypted on the internet. It's just an HTML file, 
 
 Do you think this cannot possibly be secure? Great, prove it.
 
-[This secret](https://mprimi.github.io/portable-secret/examples/bounty.html) contains the recovery key for a Bitcoin wallet. Crack it and take my money!
+[This secret](https://dstroot.github.io/portable-secret/examples/bounty.html) contains the recovery key for a Bitcoin wallet. Crack it and take my money!
 
 ### Choosing a good password
 
@@ -125,7 +125,7 @@ If you are aware of other similar projects, please let me know and I'll link the
 
 I would love to hear what you think of this project, good, bad, or ugly.
 
-Please use [GH issue](https://github.com/mprimi/portable-secret/issues) to report a problems and make suggestions. For everything else, start a [GH Discussion](https://github.com/mprimi/portable-secret/discussions).
+Please use [GH issue](https://github.com/dstroot/portable-secret/issues) to report a problems and make suggestions. For everything else, start a [GH Discussion](https://github.com/dstroot/portable-secret/discussions).
 
 You can also find my email on my homepage (linked from my GH profile).
 
